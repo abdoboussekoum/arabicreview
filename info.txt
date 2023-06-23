@@ -1,0 +1,5 @@
+Db-name:Project-Wp
+db-password:64U9RBGc6$jY?_#
+table_prefix:ProjecT_612wP_
+
+wp_password:8zn!KKIupAU3*fpIZS
